@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  TP2
+
+  Created by Emmanuel Faure on 23/05/2023.
+  
+*/
+
+"discover.title" = "Film list";
+"categories.title" = "List of films in the genre :";
+
+"movie.time" = "Time ";
+"movie.no_video" = "No trailer available";
+"movie.release" = "Release date ";
+"movie.budget" = "Budget ";
+"movie.satisfaction" = "Satisfaction ";
